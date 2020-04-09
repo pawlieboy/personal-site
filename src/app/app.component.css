@@ -1,0 +1,42 @@
+.profile-image {
+    border-radius: 25%;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+    color: #3B5998;
+}
+
+/* Linkedin */
+.fa-linkedin {
+    color: #0E76A8;
+}
+
+/* Instagram */
+.fa-instagram {
+    color: #C13584;
+}
+  
+/* Twitter */
+.fa-twitter {
+    color: #55ACEE;
+}
+
+/* Email */
+.fa-email {
+    color:grey;
+}
