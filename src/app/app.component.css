@@ -1,7 +1,9 @@
+/* Make my profile photo on the front page look like an app icon */
 .profile-image {
     border-radius: 25%;
 }
 
+/* Font-awesome circular brand icons */
 .fa {
     padding: 15px;
     font-size: 30px;
@@ -11,7 +13,7 @@
     border-radius: 50%;
 }
 
-/* Add a hover effect if you want */
+/* Add a hover effect to font-awesome icons */
 .fa:hover {
     opacity: 0.7;
 }
